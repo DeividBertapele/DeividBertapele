@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! Welcome to my profile! 👋
 
 - 🔭 Meu nome é Deivid Bertapele.
 - 🌱 Estudando Programação Python
@@ -11,6 +11,8 @@
   
  <div style="display: inline_block"><br>
  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+ 
+ <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  
    <div style="display: inline_block"><br>
   <img align="center" alt="Vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
