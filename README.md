@@ -2,7 +2,6 @@
 
 - 🔭 Meu nome é Deivid Bertapele.
 - 🌱 Estudando Programação Python
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/DeividBertapele">
