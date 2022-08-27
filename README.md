@@ -5,8 +5,8 @@
 
 <div align="center">
   <a href="https://github.com/DeividBertapele">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeividBertapele&theme=blue-green"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeividBertapele&theme=blue-green"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DeividBertapele&theme=blue-green"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeividBertapele&theme=blue-green"/>
 </div>
   
  <div style="display: inline_block"><br>
