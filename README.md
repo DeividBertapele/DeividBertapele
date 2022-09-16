@@ -1,7 +1,7 @@
 ### Hi there! Welcome to my profile! 👋
 
 - 🔭 Meu nome é Deivid Bertapele.
-- 🌱 Estudando Programação Python
+- 🌱 Desenvolvedor Python
 
 <div align="center">
   <a href="https://github.com/DeividBertapele">
