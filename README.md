@@ -1,7 +1,7 @@
 ### Hi there! Welcome to my profile! 👋
 
 - 🔭 My name is Deivid Bertapele.
-- 🌱 Developer Python | Pandas | Flask | Django
+- 🌱 Developer Python | Flask | Django | Pandas | SQL | MySQL | DOCKER
 
 <div align="center">
   <a href="https://github.com/DeividBertapele">
