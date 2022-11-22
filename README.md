@@ -8,6 +8,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeividBertapele&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeividBertapele&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
+
+## Ferramentas e Tecnologias  
 <div style="display: inline_block"><br>
 
   <img align="center" alt="Python"  src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
@@ -18,14 +20,13 @@
   <img align="center" alt="Netlify"  src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
   <img align="center" alt="Heroku"  src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
   
+  
  
-
 
 </div>
   
    
- ##
- 
+ ## Contatos: 
   <div> 
   <a href="https://www.instagram.com/deivid__bertapele/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:deividbertapele@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
