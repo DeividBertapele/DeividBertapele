@@ -1,7 +1,8 @@
 ### Hi there! Welcome to my profile! 👋
 
-- 🔭 My name is Deivid Bertapele.
-- 🌱 Python Developer
+- My name is Deivid Bertapele.
+- Python Developer
+- I'm studying: DevOps for Absolute Beginners: Azure DevOps, Docker, Kubernetes, Jenkins, Terraform, Ansible, Microservices - AWS, Azure & Google Cloud
 
 <div align="center">
   <a href="https://github.com/DeividBertapele">
