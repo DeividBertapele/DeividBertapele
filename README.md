@@ -1,7 +1,7 @@
 ### Hi there! Welcome to my profile! 👋
 
 - My name is Deivid Bertapele.
-- Python Develop
+- Python Developer
 
 <div align="center">
   <a href="https://github.com/DeividBertapele">
