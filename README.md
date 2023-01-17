@@ -3,11 +3,14 @@
 - My name is Deivid Bertapele.
 - Python Developer
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=DeividBertapele&show_icons=true&theme=default#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+<div>
+  <a href="https://github.com/DeividBertapele">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeividBertapele&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=DeividBertapele&show_icons=true&theme=highcontrast#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeividBertapele&layout=compact&langs_count=7&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
 
 ### Tools and Technologies:
 <div style="display: inline_block">
