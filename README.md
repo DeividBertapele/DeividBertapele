@@ -6,11 +6,11 @@
 <div>
   <a href="https://github.com/DeividBertapele">
 
- [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=DeividBertapele&show_icons=true&theme=highcontrast#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeividBertapele&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeividBertapele&layout=compact&langs_count=7&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeividBertapele&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
+ </div>
 
 ### Tools and Technologies:
 <div style="display: inline_block">
