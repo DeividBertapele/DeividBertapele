@@ -3,6 +3,8 @@
 - My name is Deivid Bertapele.
 - Python Developer
 
+-- I'm studying Django Web Framework and Django Rest Framework Course
+
 <div>
   <a href="https://github.com/DeividBertapele">
 
